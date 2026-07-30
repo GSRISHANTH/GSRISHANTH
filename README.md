@@ -123,8 +123,8 @@ I enjoy building systems where **hardware and software work together**. Whether 
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: **Your LinkedIn URL**
-* 📧 Email: **[your.email@example.com](mailto:your.email@example.com)**
+* 💼 LinkedIn: **https://www.linkedin.com/in/srishanth-gade/**
+* 📧 Email: **[gadesrishanth03@gmail.com](mailto:your.email@example.com)**
 
 ---
 
