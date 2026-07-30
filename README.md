@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm G. Srishanth</h1>
 
 <h3 align="center">
-Electronics & Communication Engineering Student | Embedded Hardware | Embedded Systems | VLSI | Semiconductor Enthusiast
+Embedded Hardware | Embedded Systems | Electronics & Communication Engineering
 </h3>
 
 <p align="center">
-Passionate about designing embedded hardware, semiconductor technologies, and intelligent electronic systems that bridge hardware and software to solve real-world engineering problems.
+Passionate about designing embedded hardware, developing reliable firmware, and building intelligent electronic systems that solve real-world engineering challenges.
 </p>
 
 ---
@@ -14,38 +14,25 @@ Passionate about designing embedded hardware, semiconductor technologies, and in
 
 🎓 Final-year **B.Tech Electronics & Communication Engineering** student at **Amrita Vishwa Vidyapeetham, Bengaluru**
 
-💡 I enjoy building embedded systems from the ground up—from hardware design and firmware development to testing and validation. My interests span embedded hardware, VLSI design, semiconductor engineering, and product development.
+I enjoy working on embedded hardware and firmware projects involving microcontrollers, circuit design, communication protocols, and real-time control systems. My goal is to build reliable electronic products by combining hardware and software engineering.
 
-🔬 I am particularly interested in:
+Currently, I am strengthening my knowledge in:
 
 - Embedded Hardware Design
-- Embedded Systems & Firmware Development
-- VLSI & CMOS Circuit Design
-- Semiconductor Product Engineering
+- Embedded Firmware Development
+- Circuit Design
 - Hardware Validation & Testing
-- Communication Protocols
+- VLSI Design
+- Semiconductor Engineering
 - Product Development
-
-🌱 Currently expanding my knowledge in:
-
-- Embedded Linux
-- Device Drivers
-- RTOS
-- FPGA Design
-- Verilog & SystemVerilog
-- Cadence Virtuoso
-- STM32 Microcontrollers
-
-🎯 **Career Goal**
-
-To contribute to the design and development of next-generation embedded hardware and semiconductor products while continuously learning advanced technologies and eventually building innovative engineering solutions.
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠 Technical Skills
 
 ## Programming Languages
 
+- Embedded C
 - C
 - C++
 - Python
@@ -57,108 +44,143 @@ To contribute to the design and development of next-generation embedded hardware
 
 ## Embedded Systems
 
-- Embedded C
-- ARM7 (LPC2148)
 - ESP32
+- ARM7 (LPC2148)
 - Arduino UNO
 - STM32 (Learning)
-- GPIO
+
+### Communication Protocols
+
 - UART
 - SPI
 - I²C
-- CAN
+- CAN Bus
 - TCP/IP
-- FreeRTOS
+
+### Embedded Concepts
+
+- GPIO
+- Timers
+- PWM
+- ADC
+- Interrupts
+- Wi-Fi Communication
+- FreeRTOS (Learning)
 
 ---
 
-## VLSI & Digital Design
+## Embedded Hardware
+
+- Analog Circuit Design
+- Digital Circuit Design
+- Circuit Diagram Interpretation
+- Datasheet Analysis
+- Component Selection
+- Hardware Debugging
+- Hardware Testing
+- Functional Validation
+- Basic PCB Design Exposure
+- Basic Soldering
+
+---
+
+## VLSI & Semiconductor
 
 - CMOS Fundamentals
 - Cadence Virtuoso
-- Digital Circuit Design
-- Analog Circuit Design
-- Verilog HDL
-- FPGA
-- Xilinx Vivado
-- Transistor-Level Circuit Design
-- PVT Analysis
+- Digital VLSI
 - Layout Design
+- PVT Analysis
+- Transistor-Level Design
+- FPGA Basics
+- Vivado
 
 ---
 
-## Software & EDA Tools
+## Software & Tools
 
-- Cadence Virtuoso
+- Arduino IDE
 - Keil µVision
+- Cadence Virtuoso
 - Proteus
 - LTspice
 - MATLAB / Simulink
 - Vivado
-- Wokwi
 - Git
 - GitHub
 
 ---
 
-# 💼 Featured Projects
+# 📌 Featured Projects
+
+## 🤖 ESP32 Wi-Fi Robotic Arm for Industry 4.0
+
+Designed and developed an ESP32-based robotic arm capable of browser-based wireless control over a Local Area Network.
+
+### Highlights
+
+- Wi-Fi Web Dashboard
+- Embedded C Firmware
+- Multi-Servo Coordination
+- Trajectory Recording & Replay
+- Emergency Stop
+- Fail-Safe Recovery
+- Real-Time Motion Control
+
+🔗 Repository
+
+https://github.com/GSRISHANTH/ESP32-WiFi-Robotic-Arm
+
+---
 
 ## 📡 CMOS UWB Pulse Generator
 
-Designed and implemented a **CMOS Ultra-Wideband Pulse Generator** using the Dual-Pulse Frequency Notching technique in **Cadence Virtuoso (45nm CMOS Technology)**.
+Designed and simulated a CMOS Ultra-Wideband Pulse Generator using **Cadence Virtuoso (45nm CMOS)**.
 
-**Highlights**
+### Highlights
 
 - CMOS Circuit Design
 - Transistor Sizing
 - Layout Design
 - Spectre Simulation
+- Power Analysis
+- Delay Analysis
 - PVT Analysis
-- Power & Delay Optimization
 
 ---
 
 ## 🔋 Smart Battery Management System
 
-Developed an intelligent Battery Management System using **ESP32** capable of:
+Developed an ESP32-based Battery Management System for multi-cell battery monitoring and protection.
 
-- Multi-cell voltage monitoring
-- Fault detection
-- Relay protection
-- IoT cloud monitoring
-- LCD-based diagnostics
+### Features
+
+- ADC-Based Voltage Monitoring
+- Relay Protection
+- Fault Detection
+- IoT Dashboard
+- Finite State Machine
+- LCD Diagnostics
 
 ---
 
 ## 🔤 ARM7 Morse Code Generator
 
-Designed an embedded system using **LPC2148 ARM7** that converts alphanumeric input into Morse code.
+Developed an LPC2148-based embedded system that converts text into Morse code.
 
-Features include:
+### Features
 
 - UART Communication
 - LCD Display
-- Timer-Based Signal Generation
 - GPIO Control
+- Timer-Based Signal Generation
 - Embedded C Firmware
-
----
-
-## 🤖 ESP32 Robotic Control over Local LAN
-
-Designed firmware for an ESP32-based robotic control system using **Wi-Fi (TCP/IP)** communication for real-time navigation and motor control.
 
 ---
 
 ## 📡 Laser-Based Wireless Communication System
 
-Designed and simulated a laser-based optical communication system using **Pulse Amplitude Modulation (PAM)** and evaluated multiple line coding techniques through BER analysis in MATLAB.
-
----
-
-## 🤖 Reinforcement Learning for Game AI
-
-Currently exploring Reinforcement Learning through **Google Research Football** to understand autonomous decision-making, intelligent agents, and AI-based control systems.
+Designed and simulated a laser communication system using Pulse Amplitude Modulation (PAM) and BER analysis in MATLAB.
 
 ---
 
@@ -166,72 +188,60 @@ Currently exploring Reinforcement Learning through **Google Research Football** 
 
 - Embedded Linux
 - Linux Device Drivers
-- RTOS
 - STM32 Development
-- FPGA Design
-- Embedded AI
+- PCB Design
+- Advanced Embedded Systems
+- Product Development
 - Semiconductor Manufacturing
-- Computer Architecture
-- Hardware Validation Techniques
+- Hardware Design Methodology
 
 ---
 
 # 🎯 Career Interests
 
 - Embedded Hardware Design
+- Embedded Firmware Development
+- Hardware Validation
 - Embedded Software Engineering
-- Firmware Development
+- Circuit Design
 - Semiconductor Product Engineering
-- Embedded Linux
-- VLSI Design & Verification
-- Hardware Validation & Testing
-- Automotive Electronics
-- Robotics
 - Product Development
+- Industrial Electronics
+- Robotics
 
 ---
 
 # 🌟 What Drives Me
 
-I believe that the best engineering solutions emerge when hardware and software work together seamlessly.
+I enjoy designing systems where hardware and software work together to solve practical engineering problems.
 
-Whether it's designing transistor-level CMOS circuits, developing embedded firmware, implementing communication protocols, or validating hardware systems, I enjoy solving challenging engineering problems through practical, hands-on development.
-
-I am always eager to learn new technologies, collaborate with engineering teams, and contribute to building reliable, high-performance embedded systems.
+Whether it is developing firmware for an ESP32, designing transistor-level CMOS circuits, implementing communication protocols, or debugging embedded hardware, I enjoy learning through hands-on engineering projects and continuously improving my technical skills.
 
 ---
 
-# 📊 Technical Focus
+# 📈 GitHub Goals
 
-✔ Embedded Hardware Design
+✔ Build practical embedded hardware projects
 
-✔ Embedded Firmware Development
+✔ Improve firmware development skills
 
-✔ CMOS Circuit Design
+✔ Learn professional hardware design workflows
 
-✔ VLSI
+✔ Contribute to open-source embedded projects
 
-✔ Hardware Validation
-
-✔ PCB Fundamentals
-
-✔ Communication Protocols
-
-✔ Low Power Design
-
-✔ Product Development
+✔ Develop industry-ready engineering documentation
 
 ---
 
 # 📫 Connect With Me
 
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/srishanth-gade/
-
 📧 **Email**
 
 gadesrishanth03@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/srishanth-gade/
 
 🐙 **GitHub**
 
@@ -239,10 +249,10 @@ https://github.com/GSRISHANTH
 
 ---
 
-<h3 align="center">
-Thanks for visiting my profile! ⭐
-</h3>
-
 <p align="center">
-Feel free to explore my repositories and connect with me.
+
+⭐ Thanks for visiting my GitHub profile!
+
+I'm always open to learning, collaborating, and building innovative embedded systems.
+
 </p>
